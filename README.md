@@ -1,0 +1,1 @@
+I have created a page where to can add your daily tasks and remove as soon as you done with them.I done by using HTML,CSS &JS.I have done by using vscode.Open the page in browsers like chrome,firefox.
